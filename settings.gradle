@@ -1,0 +1,2 @@
+include ':app', ':passwordview'
+rootProject.name='Password View Project'
